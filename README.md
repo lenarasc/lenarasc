@@ -1,7 +1,7 @@
-<p align="left"> <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Flenarasc&s=40&c=7300ff&bg=00000000&no=2&ff=digi&tb=Visitors%3A+&ta=+" alt="visits" /> </p>
+<p align="left"> <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Flenarasc&s=35&c=7300ff&bg=00000000&no=2&ff=electrolize&tb=Visitors%3A+&ta=+" alt="visits"> </p>
 
 <h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif&weight=900&size=22&duration=4000&pause=500&color=5E2A88&background=FAF9FF&center=true&vCenter=true&width=435&lines=%E2%AD%90+Hey+there!+Welcome!+%E2%AD%90;I'm+Lenara+Calazans+%E2%AD%90;A+passionate+frontend+developer+💻" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif&weight=900&size=22&duration=4000&pause=500&color=5E2A88&center=true&vCenter=true&width=435&lines=%E2%AD%90+Hey+there!+Welcome!+%E2%AD%90;I'm+Lenara+Calazans+%E2%AD%90;A+passionate+frontend+developer+💻" />
 </h1>
 
 <div align="center">
