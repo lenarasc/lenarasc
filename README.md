@@ -1,7 +1,4 @@
-
-![likeapurplemagicalwaveslower](https://github.com/user-attachments/assets/7f2d5f84-3d8d-4c41-92dd-e55a4e171c1f)
-
-
+![likeapurplemagicalwaveslower 5](https://github.com/user-attachments/assets/d2a35bfb-d7ef-4bcc-a3d0-b7f91364080b)
 
 
 <h1 align="center">
