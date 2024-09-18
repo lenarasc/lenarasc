@@ -24,4 +24,7 @@
 
 <p align="center"> <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Flenarasc&s=35&c=7300ff&bg=00000000&no=2&ff=electrolize&tb=Visitors%3A+&ta=+" alt="visits"> </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=7300FF&section=footer&reversal=true&textBg=false&fontSize=30&fontAlign=50&fontAlignY=35" />
+
+
+![likeapurplemagicalwaveslower 6 bottom](https://github.com/user-attachments/assets/aa27d716-9a50-4c79-b57d-3d9f6c0155b8)
+
