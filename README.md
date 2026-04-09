@@ -1,7 +1,7 @@
 ![Lenarasmagicalwavetop6](https://github.com/user-attachments/assets/a34a1639-b5dd-4b76-b77a-a223de16e6e6)
 
 <h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif&weight=900&size=30&duration=4000&pause=500&color=7300FF&center=true&vCenter=true&width=800&lines=%E2%AD%90+Hey+there!+Welcome+to+my+profile!+%E2%AD%90;I'm+Lenara+Calazans+%E2%AD%90;a+undergraduate+student+in+Systems+Analysis+and+Development.;" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif&weight=900&size=30&duration=4000&pause=500&color=7300FF&center=true&vCenter=true&width=800&lines=%E2%AD%90+Hey+there!+Welcome+to+my+profile!+%E2%AD%90;I'm+Lenara+Calazans+%E2%AD%90;a+undergraduate+student+in;Systems+Analysis+and+Development.;" />
 </h1>
 
 <div align="center">
